@@ -22,4 +22,5 @@ The models were evaluated based on precision, recall, F1-score, and ROC-AUC. Log
 ## Usage
 This analysis provides valuable insights for the bank to tailor its marketing strategies and improve customer interaction, ultimately driving business growth and profitability.
 
-
+## Outline of project
+[Link to Notebook](http://localhost:8888/lab/tree/UCI-Bank.ipynb)
